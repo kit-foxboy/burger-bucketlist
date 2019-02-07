@@ -1,2 +1,2 @@
-# presidential-hamberders
-A mysql database-driven restaurant app with fun templating
+# burger-bucketlist
+A mysql database-driven bucket list app for hamburgers 
