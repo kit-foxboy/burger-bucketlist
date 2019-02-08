@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "burger-bucketlist",
   "version": "1.0.0",
   "description": "A mysql database-driven checklist app with fun templating",
   "main": "server.js",
