@@ -1,5 +1,5 @@
 //import modules
-const db = require("../models/Burger");
+const db = require("../models/burger");
 
 module.exports = (app) => {
 
